@@ -16,4 +16,4 @@ There are six ships on the board that are randomly allocated. The algorithms tri
 After the suitable place is found, the ship is added to the board.
 
 ## Class diagram
-![Class diagram](Class-diagram.png)
+![Class diagram](Class diagram.png)

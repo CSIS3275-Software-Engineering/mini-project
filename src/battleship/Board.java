@@ -4,6 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.concurrent.ThreadLocalRandom;
 
+
 public class Board {
     public static final int SIZE = 7;
     List<Ship> ships;
